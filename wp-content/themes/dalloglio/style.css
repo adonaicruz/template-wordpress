@@ -1,0 +1,27 @@
+/*
+    Theme Name: DallOglio Blog
+    Theme URI: https://github.com/dalloglio/template-wordpress
+    Author: Ricardo Pires
+    Description: Template para blog
+    Version: 1.0
+    License: MIT
+    License URI: https://opensource.org/licenses/MIT
+    Text Domain: dalloglio
+*/
+
+html,body { height: 100% }
+
+body { padding-top: 51px; background-color: #f9f9f9; }
+
+header#header { }
+
+main { min-height: calc(100% - 60px); padding: 20px 0 }
+
+aside {  }
+
+footer#footer { padding: 10px 0; background-color: #222; color: #fff }
+footer#footer p { margin: 0 }
+footer#footer p a { color: inherit }
+
+form#commentform .form-submit { margin-left: 15px }
+.current-menu-item { color: #fff; background-color: #080808 }
